@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contactly", "Contactly\Contactly.csproj", "{DF1AA597-A287-48CD-B3E5-6BCD0C060A83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF1AA597-A287-48CD-B3E5-6BCD0C060A83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF1AA597-A287-48CD-B3E5-6BCD0C060A83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF1AA597-A287-48CD-B3E5-6BCD0C060A83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF1AA597-A287-48CD-B3E5-6BCD0C060A83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC0A4B1E-FDBA-4B8D-9E8F-FD7D19039752}
+	EndGlobalSection
+EndGlobal
